@@ -1,0 +1,1 @@
+Este diretório contém os scripts SQL utilizados neste projeto.

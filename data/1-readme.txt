@@ -1,0 +1,1 @@
+Este diretório contém os dados brutos propostos pelo desafio.

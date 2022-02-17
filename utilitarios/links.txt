@@ -1,0 +1,3 @@
+- Download Pentaho Data Integration 9.2: https://sourceforge.net/projects/pentaho/files/Pentaho%209.1/
+
+- Tutorial de instalação do Pentaho Data Integration no Windows: https://www.ericknishimoto.com.br/como-instalar-o-pentaho-data-integration-pdi-no-windows/

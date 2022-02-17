@@ -1,0 +1,1 @@
+Este diretório informa os links para download do Pentaho Data Integration e drivers de conexão com o SQL que devem ser inseridos no diretório "data-integration\lib".
